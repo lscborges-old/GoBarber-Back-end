@@ -1,6 +1,4 @@
 import AppError from '@shared/errors/AppError';
-
-import { addSeconds } from 'date-fns';
 import FakeUsersRepository from '../repositories/fakes/FakeUsersRepository';
 import FakeUsersTokensRepository from '../repositories/fakes/FakeUserTokensRepository';
 import ResetPasswordService from './ResetPasswordService';
