@@ -15,12 +15,12 @@ interface IRequest {
 }
 
 @injectable()
-class UpdateProfile {
+class UpdateProfileService {
   constructor(
     @inject('UsersRepository')
     private usersRepository: IUsersRepository,
 
-    @inject('StorageProvider')
+    @inject('HashProvider')
     private hashProvider: IHashProvider,
   ) {}
 
@@ -68,4 +68,4 @@ class UpdateProfile {
     return this.usersRepository.save(user);
   }
 }
-export default UpdateProfile;
+export default UpdateProfileService;
