@@ -6,3 +6,4 @@ coverage
 
 tmp/*
 !tmp/.gitkeep
+!tmp/uploads/.gitkeep
