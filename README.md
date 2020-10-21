@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to GoBarber API 👋</h1>
+<h1 align="center">Welcome to GoBarber API :barber:</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,11 @@
   </a>
 </p>
 
-> API for scheduling barber appointments
+> API developed to a scheduling application for barbershops. That allow barbers to manage their schedules and clients to search for an available barber
+
+## Others repositories of this project :books:
+* <a href="https://github.com/lscborges1/GoBarber-Mobile">Web Front-end</a>
+* <a href="https://github.com/lscborges1/GoBarber-Front-end">Mobile Front-end</a> : 
 
 ## Install
 
