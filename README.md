@@ -12,6 +12,22 @@
 * <a href="https://github.com/lscborges1/GoBarber-Mobile">Web Front-end</a>
 * <a href="https://github.com/lscborges1/GoBarber-Front-end">Mobile Front-end</a> : 
 
+## Technologies Used
+* <a href="https://nodejs.org/en/" >Node.js<a>
+* <a href="https://www.typescriptlang.org/" >Typescript<a>
+* <a href="  https://github.com/brianc/node-postgres" > Postgres <a>
+* <a href="https://github.com/mongodb/node-mongodb-native" > Mongodb <a>
+* <a href="https://github.com/NodeRedis/node-redis" > Redis <a>
+* <a href="https://github.com/aws/aws-sdk-js" >AWS SDK<a>
+* <a href="https://nodemailer.com/about/" > Nodemailer <a>
+* <a href="https://github.com/dcodeIO/bcrypt.js#readme" > Bcrypt.js <a>
+* <a href="http://expressjs.com/" > Express <a>
+* <a href="https://handlebarsjs.com/" > Handlebars <a>
+* <a href="https://github.com/auth0/node-jsonwebtoken#readme" > JWT <a>
+* <a href="https://github.com/expressjs/multer#readme" > Multer <a>
+* <a href="https://github.com/Microsoft/tsyringe#readme" > Tsyringe <a>
+* <a href="https://github.com/typeorm/typeorm#readme" > Typeorm <a>
+  
 ## Install
 
 ```sh
