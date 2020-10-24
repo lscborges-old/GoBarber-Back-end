@@ -6,7 +6,9 @@
   </a>
 </p>
 
-> API developed to a scheduling application for barbershops. That allow barbers to manage their schedules and clients to search for an available barber
+## Preview
+
+> API developed to a scheduling application for barbershops. This application allows barbers to manage their schedules and clients to search for an available barber
 
 ## Others repositories of this project :books:
 * <a href="https://github.com/lscborges1/GoBarber-Mobile">Web Front-end</a>
@@ -29,16 +31,27 @@
 * <a href="https://github.com/typeorm/typeorm#readme" > Typeorm <a>
   
 ## Install
-
+> Installing dependencies
 ```sh
 yarn install
+```
+> Running migrations
+```sh
+yarn typeorm migration:run
+```
+> Create a .env file and 
+fill it following the .env.example file
+```sh
+cp .env.example .env
 ```
 
 ## Usage
 
+> To start the server in development mode 
 ```sh
-yarn run start
+yarn dev:server
 ```
+> *** Instancies of MongoDB, Redis ,and PostgresSQL must be running
 
 ## Run tests
 
