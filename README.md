@@ -6,8 +6,6 @@
   </a>
 </p>
 
-## Preview
-
 > API developed to a scheduling application for barbershops. This application allows barbers to manage their schedules and clients to search for an available barber
 
 ## Others repositories of this project :books:
