@@ -6,9 +6,11 @@
   </a>
 </p>
 
+> API developed to a scheduling application for barbershops. This application allows barbers to manage their schedules and clients to search for an available barber
+
 ## Preview
 
-> API developed to a scheduling application for barbershops. This application allows barbers to manage their schedules and clients to search for an available barber
+<img src=".github/gobarberweb_preview.png"/>
 
 ## Others repositories of this project :books:
 * <a href="https://github.com/lscborges1/GoBarber-Mobile">Web Front-end</a>
