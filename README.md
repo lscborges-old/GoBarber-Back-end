@@ -17,7 +17,7 @@
 ## Technologies Used
 * <a href="https://nodejs.org/en/" >Node.js<a>
 * <a href="https://www.typescriptlang.org/" >Typescript<a>
-* <a href="  https://github.com/brianc/node-postgres" > Postgres <a>
+* <a href="https://www.postgresql.org" > Postgres <a>
 * <a href="https://github.com/mongodb/node-mongodb-native" > Mongodb <a>
 * <a href="https://github.com/NodeRedis/node-redis" > Redis <a>
 * <a href="https://github.com/aws/aws-sdk-js" >AWS SDK<a>
